@@ -1,0 +1,40 @@
+N°,Entidad,Región,"PIB
+(MXN)","PIB
+(USD)​","PIB PPA
+(INT$)​","Variación
+(%)","Participación
+(%)",Comparable
+1,Ciudad de México,Centrosur,"4,397,228","218,825","445,154",2.8,15.2,Israel Israel
+2,Estado de México,Centrosur,"2,646,687","131,711","267,938",3.5,9.2,Nueva Zelanda Nueva Zelanda
+3,Nuevo León,Noreste,"2,407,368","119,801","243,710",3.3,8.3,Angola Angola
+4,Jalisco,Occidente,"2,104,629","104,736","213,062",3.5,7.3,Eslovaquia Eslovaquia
+5,Veracruz,Oriente,"1,260,338","62,720","127,590",1.4,4.4,Libia Libia
+6,Guanajuato,Centronorte,"1,226,241","61,023","124,139",3.1,4.3,Jordania Jordania
+7,Baja California,Noroeste,"1,110,558","55,266","112,427",4.1,3.9,Turkmenistán
+8,Sonora,Noroeste,"1,066,144","53,056","107,931",3.5,3.7,Paraguay Paraguay
+9,Coahuila,Noreste,"1,056,659","52,584","106,971",1.4,3.7,Paraguay Paraguay
+10,Chihuahua,Noroeste,"1,049,809","52,243","106,278",3.4,3.6,Eslovenia Eslovenia
+11,Puebla,Oriente,"893,794","44,479","90,483",1.8,3.1,Luxemburgo Luxemburgo
+12,Tamaulipas,Noreste,"851,589","42,379","86,211",2.7,3.0,Baréin Baréin
+13,Tabasco,Sureste,"744,116","37,030","75,331",8.6,2.6,Zambia
+14,Michoacán,Occidente,"707,134","35,190","71,587",2.6,2.5,Letonia Letonia
+15,San Luis Potosí,Centronorte,"668,269","33,256","67,652",2.8,2.3,Honduras Honduras
+16,Sinaloa,Noroeste,"665,121","33,099","67,334",2.5,2.3,El Salvador El Salvador
+17,Querétaro,Centronorte,"664,328","33,060","67,253",3.6,2.3,Yemen Yemen
+18,Campeche,Sureste,"537,920","26,769","54,456",-3.7,1.9,Benín Benín
+19,Hidalgo,Oriente,"473,024","23,540","47,887",5.3,1.6,Mozambique Mozambique
+20,Oaxaca,Suroeste,"466,101","23,195","47,186",2.3,1.6,Nicaragua Nicaragua
+21,Chiapas,Suroeste,"451,798","22,483","45,738",3.1,1.6,Botsuana Botsuana
+22,Yucatán,Sureste,"442,021","21,997","44,748",1.5,1.6,Chipre Chipre
+23,Quintana Roo,Sureste,"433,743","21,585","43,910",6.2,1.5,Guinea Guinea
+24,Guerrero,Suroeste,"394,649","19,639","39,952",3.2,1.4,Macao Macao
+25,Aguascalientes,Centronorte,"376,325","18,728","38,097",2.3,1.3,Haití Haití
+26,Durango,Noroeste,"353,279","17,581","35,764",1.5,1.2,Malaui Malaui
+27,Morelos,Centrosur,"314,112","15,632","31,799",5.1,1.1,Brunéi Brunéi
+28,Zacatecas,Centronorte,"275,914","13,731","27,932",1.8,1.0,Namibia Namibia
+29,Baja California Sur,Noroeste,"263,375","13,107","26,663",7.1,0.9,Kosovo Kosovo
+30,Nayarit,Occidente,"207,827","10,342","21,039",3.4,0.7,Somalia
+31,Colima,Occidente,"172,836","8,601","17,497",2.6,0.6,Sierra Leona Sierra Leona
+32,Tlaxcala,Oriente,"160,600","7,992","16,258",2.0,0.6,Montenegro Montenegro
+México México,México México,México México,"28,843,535","1,435,380","2,919,977",3.0​​,100.0,Italia Italia
+,,,,,,,,
